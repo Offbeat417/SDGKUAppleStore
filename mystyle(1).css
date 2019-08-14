@@ -1,0 +1,56 @@
+body{
+    background-color:#dddddd;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    background-image: url(img/banner.jpg);
+    height: 100px;
+    padding-top: 50px;
+    
+}
+
+.sectionTitle{
+    background-color: rgb(39, 88, 90);
+    font-size: 16px;
+    padding: 5px;
+    color:white;
+}
+
+.footerTitle{
+    background-color:#292929;
+    color:white;
+    font-size:14px;
+    text-align: center;
+}
+
+img{
+    border-radius:8px;
+    
+}
+
+.map{
+    width: 350px;
+    text-align: left;
+    border: 5px solid #ffffff;
+    opacity: 0.8;
+}
+
+.about{
+    color:black;
+    font-size: 14px;
+    text-align: right;
+
+}
+
+.contact{
+    color:black;
+    font-size:12px;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.banner{
+    height: 300px;
+}
